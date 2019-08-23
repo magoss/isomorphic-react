@@ -52,13 +52,13 @@
     "redux-saga": "^0.15.6",
     "request": "^2.83.0",
     "request-promise": "^4.2.2",
+    "uglifyjs-webpack-plugin": "1.3",
     "webpack": "^3.6.0",
     "webpack-dev-middleware": "^1.12.0",
     "webpack-hot-middleware": "^2.19.1"
-  },	
-    "jest": {
-		"verbose": true,
-		"testURL": "http://localhost/"
-	}
-
+  },
+  "jest": {
+    "verbose": true,
+    "testURL": "http://localhost/"
+  }
 }
